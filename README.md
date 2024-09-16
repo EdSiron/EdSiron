@@ -2,7 +2,7 @@
 
 # 👋 Hello! I'm Ed Mark Angelo L. Siron
 
-### 🚀 Full Stack Developer | 💻 Web & Mobile Applications Enthusiast
+### 🚀 Web Developer | 💻 Web & Mobile Applications Enthusiast
 
 As a **graduate of BS Information Technology**, specializing in **Web and Mobile Application Development**, I am passionate about building **innovative** and **user-focused digital solutions**. I bring expertise in modern web development, proficient in:
 
