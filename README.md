@@ -1,4 +1,8 @@
-## Hi there 👋
+![Header Image](https://github.com/EdSiron/EdSiron/blob/main/assets/header.jpg)
+
+# Welcome to My GitHub Profile
+
+I am passionate about web development, specializing in front-end technologies...
 
 <!--
 **EdSiron/EdSiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
