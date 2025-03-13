@@ -2,21 +2,30 @@
 
 # 👋 Hello! I'm Ed Mark Angelo L. Siron
 
-### 🚀 Web Developer | 💻 Web & Mobile Applications Enthusiast
+### 🚀 Software Developer | 💻 Web & Mobile Applications Enthusiast
 
-As a **graduate of BS Information Technology**, specializing in **Web and Mobile Application Development**, I am passionate about building **innovative** and **user-focused digital solutions**. I bring expertise in modern web development, proficient in:
+As a **graduate of BS Information Technology**, specializing in **Web and Mobile Application Development**, I am passionate about building **innovative** and **user-focused digital solutions**. I bring expertise in modern web development, and I’m currently a **Software Developer / Associate Software Engineer** at **Halcyon Health Network Inc.**.
 
-- 🛠️ **Next.js**
-- 📝 **TypeScript**
-- 🎨 **Tailwind CSS**
+At **Halcyon Health**, I work with a tech stack that includes:
 
-to create **responsive**, **efficient**, and **scalable applications**. I also have experience with **Angular** for dynamic **single-page applications** and a strong foundation in:
+- 🐍 **Python** & **Django framework** for backend development
+- ⚛️ **React/Vite** for frontend development
+- ⚙️ **Python 2.7** for maintaining legacy projects
 
-- 🌐 **HTML**
-- 💻 **CSS**
-- ⚙️ **JavaScript**
+---
 
-for crafting **interactive web interfaces**.
+### 💼 **Job Experience**
+
+**Software Developer / Associate Software Engineer**  
+**Halcyon Health Network Inc.** | January 2024 - Present
+
+- Develop and maintain backend systems using **Python** and the **Django framework**.
+- Implement frontend solutions with **React** and **Vite** for fast, modern web applications.
+- Work on a legacy project using **Python 2.7** to ensure continued functionality and updates.
+- Collaborate with cross-functional teams for effective project delivery and debugging.
+- Deploy applications and services using **Docker** containers and manage server configurations with **Nginx**.
+
+---
 
 ### 💡 Internship & Project Experience
 
@@ -40,11 +49,13 @@ In addition to web technologies, I am knowledgeable in a variety of programming 
 
 I’m highly organized, with a focus on delivering projects on time, and I thrive in collaborative environments. I frequently utilize tools like:
 
-- 🔧 **GitHub**
-- 🛠️ **Bitbucket**
+- 🔧 **GitHub**  
+- 🛠️ **GitLab**  
+- 🐳 **Docker**  
+- 🌐 **Nginx**  
 - 📋 **Jira**
 
-for **version control** and **project management**.
+for **version control**, **project management**, and **deployment**.
 
 ### 🌱 Always Learning & Growing
 
@@ -79,9 +90,19 @@ I’m always eager to learn and grow, excited to contribute to projects that **p
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Tools:
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+--- 
+
+Feel free to connect with me and let's work on something awesome together! 😊
