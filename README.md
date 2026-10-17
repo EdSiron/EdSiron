@@ -1,14 +1,15 @@
-![Header Image](https://github.com/EdSiron/EdSiron/blob/main/assets/header.jpg)
+![Header Image](https://raw.githubusercontent.com/EdSiron/EdSiron/main/assets/header.png)
 
 # 👋 Hello! I'm Ed Mark Angelo L. Siron
 
 ### 🚀 Associate System Developer | 💻 Web & Mobile Applications Enthusiast
 
-As a **graduate of BS Information Technology**, specializing in **Web and Mobile Application Development**, I am passionate about building **innovative** and **user-focused digital solutions**. I bring expertise in modern web development, and I’m currently a **Associate System Engineer** at **Halcyon Health Network Inc.**.
+As a **graduate of BS Information Technology** (Bulacan State University, GPA 1.30), specializing in **Web and Mobile Application Development**, I am passionate about building **innovative** and **user-focused digital solutions**. I'm currently an **Associate System Developer** at **Halcyon Health Network Inc.**, and I ship modern full-stack projects on the side with **Next.js, TypeScript, and Tailwind CSS**, using AI-assisted tools to speed up delivery while keeping code quality high.
 
 At **Halcyon Health**, I work with a tech stack that includes:
 
 - 🐍 **Python** & **Django framework** for backend development
+- ☕ **Java Spring Boot** with **PostgreSQL** for backend services
 - ⚛️ **React/Vite** for frontend development
 - ⚙️ **Python 2.7** for maintaining legacy projects
 
@@ -16,14 +17,14 @@ At **Halcyon Health**, I work with a tech stack that includes:
 
 ### 💼 **Job Experience**
 
-**Software Developer / Associate Software Engineer**  
-**Halcyon Health Network Inc.** | January 2024 - Present
+**Associate System Developer**  
+**Halcyon Health Network Inc.** | January 2025 - Present
 
-- Develop and maintain backend systems using **Python** and the **Django framework**.
-- Implement frontend solutions with **React** and **Vite** for fast, modern web applications.
-- Work on a legacy project using **Python 2.7** to ensure continued functionality and updates.
+- Architect and maintain scalable backend services using **Python (Django)** and **Java Spring Boot** with **PostgreSQL**.
+- Engineer high-performance frontends with **React** and **Vite** for fast, modern web applications.
+- Modernize and sustain mission-critical **Python 2.7** legacy applications, ensuring stability and security for healthcare information systems.
 - Collaborate with cross-functional teams for effective project delivery and debugging.
-- Deploy applications and services using **Docker** containers and manage server configurations with **Nginx**.
+- Containerize services with **Docker** and manage server configurations through **Nginx** reverse proxies to optimize performance and uptime.
 
 ---
 
@@ -35,11 +36,24 @@ During my internship, I quickly adapted to new technologies like **Next.js**, **
 
 which earned a high grade.
 
+### 🧪 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Snap4Two**](https://snap4two-three.vercel.app/) | Real-time, two-person photobooth with live video and signaling, automatic 4-strip printable layouts, and full-session video recording | Next.js, TypeScript, Tailwind CSS, WebRTC, Pusher |
+| [**ProfilPro**](https://profilpro.vercel.app/) | ATS-focused resume builder with dynamic form handling and a responsive UI for clean professional formatting | Next.js, TypeScript, Tailwind CSS |
+| [**Vido**](https://edsiron.github.io/movie-app/) | Responsive movie discovery platform with real-time TMDB data, trailers, and series descriptions | React, TMDB API, Appwrite |
+
+### 🎓 Education & Certifications
+
+- 🎓 **BS Information Technology**, Bulacan State University (July 2024), GPA 1.30
+- 📜 **Responsive Web Design**, freeCodeCamp (September 2024)
+
 ### 💻 Programming Skills
 
 In addition to web technologies, I am knowledgeable in a variety of programming languages, enabling me to tackle a wide range of software challenges:
 
-- 🐍 **Python**
+- 🐍 **Python** (2.7 & 3.x)
 - 💻 **C++**
 - 🖥️ **C#**
 - ☕ **Java**
@@ -47,7 +61,7 @@ In addition to web technologies, I am knowledgeable in a variety of programming 
 
 ### 📂 Tools & Collaboration
 
-I’m highly organized, with a focus on delivering projects on time, and I thrive in collaborative environments. I frequently utilize tools like:
+I'm highly organized, with a focus on delivering projects on time, and I thrive in collaborative environments. I frequently utilize tools like:
 
 - 🔧 **GitHub**  
 - 🛠️ **GitLab**  
@@ -59,13 +73,14 @@ for **version control**, **project management**, and **deployment**.
 
 ### 🌱 Always Learning & Growing
 
-I’m always eager to learn and grow, excited to contribute to projects that **push the boundaries** of web and software development. Feel free to connect with me, and let’s build something amazing together! 😊
+I'm always eager to learn and grow, excited to contribute to projects that **push the boundaries** of web and software development. Feel free to connect with me, and let's build something amazing together! 😊
 
 ---
 
 ### 🔗 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ed-mark-siron)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ed-portfolio-nine.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ed-mark-siron/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/EdSiron)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/EdMSiron)
 
@@ -94,6 +109,12 @@ I’m always eager to learn and grow, excited to contribute to projects that **p
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+#### Backend & Database:
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 #### Tools:
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -103,6 +124,6 @@ I’m always eager to learn and grow, excited to contribute to projects that **p
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
---- 
+---
 
 Feel free to connect with me and let's work on something awesome together! 😊
